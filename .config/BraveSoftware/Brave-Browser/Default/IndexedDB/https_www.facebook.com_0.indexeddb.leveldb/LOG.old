@@ -1,0 +1,5 @@
+2021/02/07-14:01:44.743 967b Reusing MANIFEST /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/07-14:02:23.164 96fc Level-0 table #5: started
+2021/02/07-14:02:23.165 96fc Level-0 table #5: 1233 bytes OK
+2021/02/07-14:02:23.166 96fc Delete type=0 #3
+2021/02/07-14:02:23.167 96fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

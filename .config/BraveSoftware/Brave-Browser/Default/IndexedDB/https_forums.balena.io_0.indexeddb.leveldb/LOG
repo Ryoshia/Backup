@@ -1,0 +1,5 @@
+2021/02/09-16:07:42.031 1232 Reusing MANIFEST /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forums.balena.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/09-16:12:43.442 1250 Level-0 table #5: started
+2021/02/09-16:12:43.451 1250 Level-0 table #5: 71887 bytes OK
+2021/02/09-16:12:43.453 1250 Delete type=0 #3
+2021/02/09-16:12:43.453 1250 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2021/02/11-19:22:18.067 2511 Reusing MANIFEST /home/ryoshia/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/02/11-19:22:18.067 2511 Recovering log #3
+2021/02/11-19:22:18.068 2511 Reusing old log /home/ryoshia/.config/discord/Local Storage/leveldb/000003.log 
+2021/02/11-19:23:19.527 26d0 Level-0 table #5: started
+2021/02/11-19:23:19.535 26d0 Level-0 table #5: 23981 bytes OK
+2021/02/11-19:23:19.537 26d0 Delete type=0 #3

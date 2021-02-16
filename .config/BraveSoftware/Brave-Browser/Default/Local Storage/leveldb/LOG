@@ -1,0 +1,9 @@
+2021/02/15-19:44:25.133 3 Reusing MANIFEST /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/02/15-19:44:25.134 3 Recovering log #134
+2021/02/15-19:44:25.135 3 Reusing old log /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000134.log 
+2021/02/15-20:07:56.912 1c Level-0 table #138: started
+2021/02/15-20:07:56.921 1c Level-0 table #138: 17337 bytes OK
+2021/02/15-20:07:56.925 1c Delete type=0 #134
+2021/02/15-22:21:09.838 51 Level-0 table #140: started
+2021/02/15-22:21:09.849 51 Level-0 table #140: 65473 bytes OK
+2021/02/15-22:21:09.852 51 Delete type=0 #137

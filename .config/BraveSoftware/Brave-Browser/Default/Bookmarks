@@ -1,0 +1,134 @@
+{
+   "checksum": "645096d6d0fbed3c1f71ca81066b96a8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13257191083000000",
+            "guid": "51cce545-99c4-4281-a701-19dbf1834be5",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13257191083000000",
+            "guid": "0f485fd3-cadb-42ba-b986-ed68220a9df4",
+            "id": "6",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13257191083000000",
+            "guid": "67341e7b-50d5-409d-8691-a6419d8c6e9c",
+            "id": "7",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13257191083000000",
+            "guid": "77f0562e-ce73-45b2-9fd5-6eef308f58c3",
+            "id": "8",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13257191083000000",
+            "guid": "627f0c21-959f-4fcb-a55a-475b04f6b637",
+            "id": "9",
+            "name": "Manjaro Discover Software",
+            "type": "url",
+            "url": "https://discover.manjaro.org/"
+         }, {
+            "date_added": "13257191083000000",
+            "guid": "3ef95ece-655f-4271-8a60-1c2fd3036767",
+            "id": "10",
+            "name": "Mozilla News",
+            "type": "url",
+            "url": "http://blog.mozilla.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13257191083000000",
+                  "guid": "a6514438-c742-4254-b37b-d58dcc8fb261",
+                  "id": "13",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13257191083000000",
+                  "guid": "7361bc52-4c3a-409d-91e1-8d52ae50dde5",
+                  "id": "14",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13257191083000000",
+                  "guid": "5fe8b5b0-9c8a-4f1a-b8cd-1743f5f3c7d5",
+                  "id": "15",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13257191083000000",
+                  "guid": "bce6f08a-335b-428d-aa02-3660e3054451",
+                  "id": "16",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13257229318995993",
+               "date_modified": "0",
+               "guid": "64b9d070-a1f2-4fdf-8bde-cf3878915048",
+               "id": "12",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13257191083000000",
+                  "guid": "8f1aef66-9d6f-4ca8-a6d3-6ad7142ae9a6",
+                  "id": "18",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               } ],
+               "date_added": "13257229318996308",
+               "date_modified": "0",
+               "guid": "1d479e0c-c47b-436c-bf5d-abb63ba38a0d",
+               "id": "17",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            } ],
+            "date_added": "13257229318995714",
+            "date_modified": "13257229318995714",
+            "guid": "6c53ac78-f9d8-464d-9cc8-f7b49e74bcb7",
+            "id": "11",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13257227145715257",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13257227145715262",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13257227145715268",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

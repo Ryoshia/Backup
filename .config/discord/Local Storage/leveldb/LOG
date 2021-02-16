@@ -1,0 +1,33 @@
+2021/02/13-18:34:29.584 878e Reusing MANIFEST /home/ryoshia/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/02/13-18:34:29.585 878e Recovering log #4
+2021/02/13-18:34:29.586 878e Reusing old log /home/ryoshia/.config/discord/Local Storage/leveldb/000004.log 
+2021/02/13-18:35:31.021 894e Level-0 table #8: started
+2021/02/13-18:35:31.030 894e Level-0 table #8: 20288 bytes OK
+2021/02/13-18:35:31.032 894e Delete type=0 #4
+2021/02/14-11:10:02.245 894e Level-0 table #10: started
+2021/02/14-11:10:02.253 894e Level-0 table #10: 16768 bytes OK
+2021/02/14-11:10:02.255 894e Delete type=0 #7
+2021/02/14-12:01:49.226 894e Level-0 table #12: started
+2021/02/14-12:01:49.235 894e Level-0 table #12: 16610 bytes OK
+2021/02/14-12:01:49.237 894e Delete type=0 #9
+2021/02/14-14:58:42.046 894e Level-0 table #14: started
+2021/02/14-14:58:42.048 894e Level-0 table #14: 17835 bytes OK
+2021/02/14-14:58:42.050 894e Delete type=0 #11
+2021/02/14-15:01:22.117 894e Level-0 table #16: started
+2021/02/14-15:01:22.119 894e Level-0 table #16: 15730 bytes OK
+2021/02/14-15:01:22.123 894e Delete type=0 #13
+2021/02/14-15:01:22.123 894e Compacting 4@0 + 1@1 files
+2021/02/14-15:01:22.126 894e Generated table #17@0: 12 keys, 10590 bytes
+2021/02/14-15:01:22.126 894e Compacted 4@0 + 1@1 files => 10590 bytes
+2021/02/14-15:01:22.128 894e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/14-15:01:22.128 894e Delete type=2 #10
+2021/02/14-15:01:22.128 894e Delete type=2 #8
+2021/02/14-15:01:22.128 894e Delete type=2 #16
+2021/02/14-15:01:22.128 894e Delete type=2 #14
+2021/02/14-15:01:22.128 894e Delete type=2 #12
+2021/02/14-18:03:30.326 894e Level-0 table #19: started
+2021/02/14-18:03:30.334 894e Level-0 table #19: 18716 bytes OK
+2021/02/14-18:03:30.336 894e Delete type=0 #15
+2021/02/14-19:05:20.482 894e Level-0 table #21: started
+2021/02/14-19:05:20.489 894e Level-0 table #21: 17446 bytes OK
+2021/02/14-19:05:20.491 894e Delete type=0 #18

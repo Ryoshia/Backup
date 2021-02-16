@@ -1,0 +1,21 @@
+2021/02/13-20:57:08.986 96c8 Reusing MANIFEST /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/13-20:57:08.986 96c8 Recovering log #36
+2021/02/13-20:57:08.986 96c8 Reusing old log /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000036.log 
+2021/02/14-17:24:16.177 f00f Level-0 table #41: started
+2021/02/14-17:24:16.197 f00f Level-0 table #41: 1188282 bytes OK
+2021/02/14-17:24:16.199 f00f Delete type=0 #36
+2021/02/14-17:27:45.819 f010 Compacting 1@1 + 1@2 files
+2021/02/14-17:27:45.835 f010 Generated table #42@1: 263 keys, 20435 bytes
+2021/02/14-17:27:45.835 f010 Compacted 1@1 + 1@2 files => 20435 bytes
+2021/02/14-17:27:45.837 f010 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/14-17:27:45.837 f010 Delete type=2 #41
+2021/02/14-17:27:45.837 f010 Delete type=2 #38
+2021/02/15-13:59:13.951 122cf Level-0 table #44: started
+2021/02/15-13:59:13.977 122cf Level-0 table #44: 1196566 bytes OK
+2021/02/15-13:59:13.979 122cf Delete type=0 #40
+2021/02/15-15:28:44.768 12d1e Compacting 1@1 + 1@2 files
+2021/02/15-15:28:44.776 12d1e Generated table #45@1: 390 keys, 15188 bytes
+2021/02/15-15:28:44.776 12d1e Compacted 1@1 + 1@2 files => 15188 bytes
+2021/02/15-15:28:44.778 12d1e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/15-15:28:44.779 12d1e Delete type=2 #44
+2021/02/15-15:28:44.779 12d1e Delete type=2 #42

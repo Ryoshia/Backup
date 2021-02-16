@@ -1,0 +1,15 @@
+2021/02/13-13:19:49.997 559c Reusing MANIFEST /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/13-13:19:49.997 559c Recovering log #4
+2021/02/13-13:19:49.997 559c Reusing old log /home/ryoshia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2021/02/13-13:35:29.337 5544 Level-0 table #8: started
+2021/02/13-13:35:29.345 5544 Level-0 table #8: 563 bytes OK
+2021/02/13-13:35:29.347 5544 Delete type=0 #4
+2021/02/13-13:35:29.347 5544 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/13-13:35:29.347 5544 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 78 : 1
+2021/02/13-13:35:29.347 5544 Compacting 1@1 + 1@2 files
+2021/02/13-13:35:29.349 5544 Generated table #9@1: 18 keys, 525 bytes
+2021/02/13-13:35:29.349 5544 Compacted 1@1 + 1@2 files => 525 bytes
+2021/02/13-13:35:29.351 5544 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/13-13:35:29.351 5544 Delete type=2 #5
+2021/02/13-13:35:29.351 5544 Delete type=2 #8
+2021/02/13-13:35:29.351 5544 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 78 : 1 .. (end); will stop at (end)
